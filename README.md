@@ -1,4 +1,4 @@
-					Análise e Design de uma Aplicação Web de E-commerce de Livraria
+		  Análise e Design de uma Aplicação Web de E-commerce de Livraria
 Com base nos Atores, Casos de Uso e Regras de Negócio descritas, realize os exercícios na sequência visando a
 análise e design de uma Aplicação Web de E-commerce de Livraria.
 Atores:
